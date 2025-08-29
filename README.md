@@ -14,5 +14,7 @@
 </br>
 
 
+### Vases 
+Canvast Is Built On Vases; Vases Hold Vast Spaces. And Can Contain, Other Vases.
 
-Spatial computing
+### What Is `Spatial Computing`?
